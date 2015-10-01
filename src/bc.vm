@@ -1,6 +1,0 @@
-window.pageViewer.check(1,1);
-window.pageViewer.update('0.16719343955628574', 'http://images.boldchat.com/ext/images/buttons/float/default/right.png', null);
-window.pageViewer.update('0.6544028534553945', 'http://images.boldchat.com/ext/images/buttons/chat/gallery/Button_EmeraldGreen_Flat_5B.png', null);
-window.pageViewer.update('0.6693534725345671', 'http://images.boldchat.com/ext/images/buttons/chat/gallery/Button_LightOrange_Flat_7B.png', null);
-window.pageViewer.update('0.4170352444052696', 'unavailable', '0.37050314829684794');
-window.pageViewer.update('0.10352644696831703', 'unavailable', '0.7175407223403454');
