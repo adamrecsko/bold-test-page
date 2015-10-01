@@ -1,2 +1,4 @@
-// only for heroku
-<?php include_once("main.html"); ?>
+<?php
+  // only for heroku 
+  include_once("main.html"); 
+?>
